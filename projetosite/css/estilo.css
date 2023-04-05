@@ -1,0 +1,57 @@
+body {
+background-color: rgb(178, 123, 230);
+  max-width: 1200px;
+}
+
+header{
+  color: rgb(72, 200, 209);
+  font-size: 50px;
+  text-align: center;
+}
+
+
+.imagem01 img {
+width: 1500px;
+height: 1000px;
+}
+
+.imagem01 {
+  text-align: center;
+}
+
+.texto {
+font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 20px;
+  padding: 12px;
+  text-align:center;
+  
+}
+h2 {
+  font-size: 30px;
+}
+
+
+.texto img {
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  border: 5px solid bisque;
+}
+
+.desenhos {
+  font-size: 1.5em;
+}
+
+.desenhos img{
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  border: 5px solid bisque;
+}
+
+.botaoinstagram {
+  text-align: end;
+  font-weight: bold;
+  padding: 20px
+}
+
